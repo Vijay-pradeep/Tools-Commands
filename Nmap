@@ -1,0 +1,1 @@
+nmap  -sS -sV -vv <IP> -p 1-1000 
